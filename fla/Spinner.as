@@ -18,7 +18,8 @@ class Spinner extends MovieClip {
 		container = this.createEmptyMovieClip( "container", 
 		                    this.getNextHighestDepth() );
 
-        container._x = 26;
+        container._x = 126;
+        
 		container._y = 130;
         scene = new Scene3D( container );
         camera = new Camera3D();
@@ -33,8 +34,8 @@ class Spinner extends MovieClip {
 		material.smooth = true;
 		//material = new ColorMaterial(0xFF0000);
 		
-		plane = new Plane(material,500,500,8,8);
-        plane.x = 250;
+		plane = new Plane(material,500,500,16,16);
+        plane.x = 0;
         plane.y = 0;
 		plane.z = 0;
         scene.push(plane);
