@@ -46,16 +46,16 @@ class Spinner extends MovieClip {
         camera = new Camera3D();
         camera.x = 0;
         camera.y = 0;
-		camera.z = -800;
-		camera.zoom = 1;
-		camera.focus = 500;
+		camera.z = -500;
+		camera.zoom = 50;
+		camera.focus = 10;
 		
 		material = new MovieAssetMaterial("bubble",true);
 		material.oneSide = false;
 		material.smooth = true;
 		//material = new ColorMaterial(0xFF0000);
-		
-		plane = new Plane(material,500*scale,500*scale,16,16);
+
+		plane = new Plane(material,material.movie._width,material.movie._height,16,16);
         plane.x = 0;
         plane.y = 0;
 		plane.z = 0;
