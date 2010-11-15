@@ -10,6 +10,7 @@ import com.lbi.animation.group.Queue;
 import com.lbi.animation.util.Easing;
 import com.lbi.core.helper.Delegate;
 class Spinner extends MovieClip {
+    var scale : Number;
     var container : MovieClip;
     var scene : Scene3D;
     var camera: Camera3D;
@@ -27,10 +28,11 @@ class Spinner extends MovieClip {
         3 * FLIP - 90
     ];
     var queue;
-    function Spinner(){
-        this.onEnterFrame = draw;
+    function Spinner(scale){
+        if(scale != null) this.scale = scale;
         init3D();
 		setup();
+        this.onEnterFrame = draw;
     }
     function setContainerPosition(x,y){
         container._x = x;
@@ -39,7 +41,6 @@ class Spinner extends MovieClip {
     function init3D(){
         container = this.createEmptyMovieClip( "container", 
 		                    1 );
-
 
         scene = new Scene3D( container );
         camera = new Camera3D();
@@ -54,7 +55,7 @@ class Spinner extends MovieClip {
 		material.smooth = true;
 		//material = new ColorMaterial(0xFF0000);
 		
-		plane = new Plane(material,500,500,16,16);
+		plane = new Plane(material,500*scale,500*scale,16,16);
         plane.x = 0;
         plane.y = 0;
 		plane.z = 0;
