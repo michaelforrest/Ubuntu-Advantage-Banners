@@ -1,0 +1,52 @@
+8
+
+dir
+149
+https://lbi-useful-actionscript-2.googlecode.com/svn/trunk/LBiUseful/project/src/com/lbi/helpers/core
+https://lbi-useful-actionscript-2.googlecode.com/svn
+
+
+
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3c92a28-e033-0410-8498-1daa85fe0015
+
+DateTimeHelper.as
+file
+
+
+
+
+2007-12-21T11:45:58.000000Z
+171a2674e80b43241e81d612f3647b95
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+
+StringFormatting.as
+file
+
+
+
+
+2007-12-21T11:43:50.000000Z
+6502c721fd9f63a0d2458c411c2ff8dd
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+

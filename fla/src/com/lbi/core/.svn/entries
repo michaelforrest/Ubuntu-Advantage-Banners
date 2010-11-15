@@ -1,0 +1,40 @@
+8
+
+dir
+149
+https://lbi-useful-actionscript-2.googlecode.com/svn/trunk/LBiUseful/project/src/com/lbi/core
+https://lbi-useful-actionscript-2.googlecode.com/svn
+
+
+
+2008-01-18T09:51:38.734130Z
+144
+michael.forrest
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3c92a28-e033-0410-8498-1daa85fe0015
+
+events
+dir
+
+helper
+dir
+
+model
+dir
+
+view
+dir
+

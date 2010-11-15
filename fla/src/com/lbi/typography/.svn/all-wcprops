@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/146/trunk/LBiUseful/project/src/com/lbi/typography
+END
+TypographyBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/typography/TypographyBase.as
+END
+StyleConverter.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/typography/StyleConverter.as
+END
+TypographyHelper.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/146/trunk/LBiUseful/project/src/com/lbi/typography/TypographyHelper.as
+END
+DefaultCss.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/typography/DefaultCss.as
+END

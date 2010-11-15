@@ -1,0 +1,8 @@
+/**
+ * @author michaelforrest
+ */
+interface com.lbi.core.model.ISelectable {
+	public function select():Void;
+	public function deselect():Void;
+	public function isSelected():Boolean;
+}

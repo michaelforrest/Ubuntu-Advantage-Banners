@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/143/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection
+END
+ISearchable.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection/ISearchable.as
+END
+Searchable.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection/Searchable.as
+END
+Collection.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection/Collection.as
+END
+Selectable.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/143/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection/Selectable.as
+END
+ISelectable.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/collection/ISelectable.as
+END

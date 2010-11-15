@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/model
+END
+IEventMapper.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/model/IEventMapper.as
+END
+Dependencies.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/framework/mvc/model/Dependencies.as
+END
+EventMapper.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/150/trunk/LBiUseful/project/src/com/lbi/framework/mvc/model/EventMapper.as
+END

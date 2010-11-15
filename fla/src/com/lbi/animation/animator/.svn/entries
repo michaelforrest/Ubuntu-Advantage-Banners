@@ -1,0 +1,52 @@
+8
+
+dir
+149
+https://lbi-useful-actionscript-2.googlecode.com/svn/trunk/LBiUseful/project/src/com/lbi/animation/animator
+https://lbi-useful-actionscript-2.googlecode.com/svn
+
+
+
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3c92a28-e033-0410-8498-1daa85fe0015
+
+Animator.as
+file
+
+
+
+
+2007-12-21T11:38:22.000000Z
+26accac214214a3361a191cf170879bd
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+
+Transition.as
+file
+
+
+
+
+2007-12-21T11:38:05.000000Z
+40ebdce12a355bd94387369908d285e8
+2007-12-21T11:49:08.422742Z
+134
+michael.forrest
+

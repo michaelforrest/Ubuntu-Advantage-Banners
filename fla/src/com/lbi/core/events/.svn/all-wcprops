@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/144/trunk/LBiUseful/project/src/com/lbi/core/events
+END
+IEvents.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/core/events/IEvents.as
+END
+Event.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/144/trunk/LBiUseful/project/src/com/lbi/core/events/Event.as
+END
+EventQueueItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/134/trunk/LBiUseful/project/src/com/lbi/core/events/EventQueueItem.as
+END
+EventDispatcher.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/153/trunk/LBiUseful/project/src/com/lbi/core/events/EventDispatcher.as
+END
