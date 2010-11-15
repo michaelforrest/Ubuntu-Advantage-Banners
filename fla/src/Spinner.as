@@ -32,13 +32,15 @@ class Spinner extends MovieClip {
         init3D();
 		setup();
     }
+    function setContainerPosition(x,y){
+        container._x = x;
+		container._y = y;
+    }
     function init3D(){
         container = this.createEmptyMovieClip( "container", 
-		                    this.getNextHighestDepth() );
+		                    1 );
 
-        container._x = 126;
-        
-		container._y = 130;
+
         scene = new Scene3D( container );
         camera = new Camera3D();
         camera.x = 0;

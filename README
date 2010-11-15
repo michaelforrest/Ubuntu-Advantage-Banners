@@ -1,1 +1,3 @@
-Hello
+$ rake -T 
+shows available compilation methods (used to embed urls in different variations). 
+You'll need to install ruby, rake, mtasc. 
