@@ -9,7 +9,7 @@ import com.lbi.animation.single.Pause;
 import com.lbi.animation.group.Queue;
 import com.lbi.animation.util.Easing;
 import com.lbi.core.helper.Delegate;
-class Spinner extends MovieClip {
+class LandscapeSpinner extends MovieClip {
     var scale : Number;
     var container : MovieClip;
     var scene : Scene3D;
@@ -18,7 +18,7 @@ class Spinner extends MovieClip {
     var material : MovieAssetMaterial;
     var nextThresholdIndex = 0;
     var needsDisplay = true;
-    var FLIP = 720;
+    var FLIP = 360;
     var flipFrames = 34;
     var farZ = 0;
     var farY = 0;
